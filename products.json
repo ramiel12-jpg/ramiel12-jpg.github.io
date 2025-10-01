@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "price": 29.99,
+    "description": "High quality and affordable.",
+    "imageUrl": "https://via.placeholder.com/200"
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "price": 49.99,
+    "description": "Top rated by customers.",
+    "imageUrl": "https://via.placeholder.com/200"
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "price": 19.99,
+    "description": "Best value for your money.",
+    "imageUrl": "https://via.placeholder.com/200"
+  }
+]
